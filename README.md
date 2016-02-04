@@ -1,2 +1,2 @@
 # SimpleProxy
-nodejs Proxy for http
++ HttpProxy

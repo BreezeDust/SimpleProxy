@@ -1,0 +1,23 @@
+{
+  "name": "simple-proxy",
+  "version": "1.0.0",
+  "description": "simple proxy",
+  "main": "SimpleProxy.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BreezeDust/SimpleProxy.git"
+  },
+  "keywords": [
+    "proxy",
+    "nodejs"
+  ],
+  "author": "BreezeDust",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BreezeDust/SimpleProxy/issues"
+  },
+  "homepage": "https://github.com/BreezeDust/SimpleProxy#readme"
+}
